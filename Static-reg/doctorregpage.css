@@ -1,0 +1,985 @@
+.doctorregpage-container {
+  min-height: 100vh;
+}
+.doctorregpage-doctorregpage {
+  width: 100%;
+  height: 2363px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.doctorregpage-form {
+  left: 0px;
+  width: 1920px;
+  bottom: 0px;
+  height: 2076px;
+  position: absolute;
+}
+.doctorregpage-input {
+  top: 100px;
+  left: 228px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input01 {
+  top: 432px;
+  left: 232px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input02 {
+  top: 432px;
+  left: 731px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input03 {
+  top: 432px;
+  left: 1236px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input04 {
+  top: 702px;
+  left: 236px;
+  width: 1356px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input05 {
+  top: 432px;
+  left: 232px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input06 {
+  top: 837px;
+  left: 232px;
+  width: 367px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input07 {
+  top: 1108px;
+  left: 238px;
+  width: 837px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input08 {
+  top: 1361px;
+  left: 231px;
+  width: 837px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input09 {
+  top: 1108px;
+  left: 1205px;
+  width: 367px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input10 {
+  top: 1361px;
+  left: 1210px;
+  width: 367px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input11 {
+  top: 837px;
+  left: 742px;
+  width: 362px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input12 {
+  top: 1530px;
+  left: 237px;
+  width: 212px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input13 {
+  top: 1530px;
+  left: 500px;
+  width: 175px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input14 {
+  top: 1530px;
+  left: 713px;
+  width: 211px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input15 {
+  top: 1530px;
+  left: 968px;
+  width: 273px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input16 {
+  left: 228px;
+  width: 273px;
+  bottom: 256px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input17 {
+  left: 583px;
+  width: 418px;
+  bottom: 254px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input18 {
+  left: 1105px;
+  width: 508px;
+  bottom: 253px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input19 {
+  top: 1530px;
+  left: 1330px;
+  width: 273px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input20 {
+  top: 837px;
+  left: 1280px;
+  width: 362px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input21 {
+  top: 100px;
+  left: 228px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-textinput {
+  top: 240px;
+  left: 0px;
+  right: 0px;
+  width: 1416px;
+  height: 68px;
+  margin: auto;
+  position: absolute;
+  font-size: 16px;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  padding-left: 507px;
+  border-radius: 25px;
+  padding-right: 507px;
+  text-transform: none;
+  text-decoration: none;
+}
+.doctorregpage-input22 {
+  top: 100px;
+  left: 738px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-input23 {
+  top: 100px;
+  left: 1255px;
+  width: 391px;
+  position: absolute;
+  align-self: center;
+  padding-top: var(--dl-space-space-unit);
+  border-color: rgba(96, 96, 96, 1);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.doctorregpage-navlink {
+  left: 660px;
+  color: rgb(220, 220, 220);
+  width: 535px;
+  bottom: 112px;
+  height: 51px;
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  text-align: center;
+  border-color: #080808;
+  border-radius: 50px;
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: rgb(0, 0, 0);
+}
+.doctorregpage-text {
+  top: 162px;
+  left: 730px;
+  color: rgba(21, 105, 138, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text02 {
+  top: 465px;
+  left: 238px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text04 {
+  top: 599px;
+  left: 871px;
+  color: rgb(128, 128, 128);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text05 {
+  top: 465px;
+  left: 767px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text07 {
+  top: 465px;
+  left: 1296px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text09 {
+  top: 311px;
+  left: 238px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text11 {
+  top: 799px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text13 {
+  top: 799px;
+  left: 766px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text15 {
+  top: 799px;
+  left: 1295px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text17 {
+  top: 645px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text19 {
+  top: 918px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text21 {
+  top: 1461px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text23 {
+  top: 1058px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text25 {
+  top: 1186px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text27 {
+  top: 1185px;
+  left: 766px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text29 {
+  top: 1185px;
+  left: 1295px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text31 {
+  top: 1875px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text33 {
+  top: 1875px;
+  left: 978px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text35 {
+  top: 2112px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text37 {
+  top: 2112px;
+  left: 595px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text39 {
+  top: 2112px;
+  left: 1125px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text41 {
+  top: 1875px;
+  left: 517px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text43 {
+  top: 1875px;
+  left: 722px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text45 {
+  top: 1875px;
+  left: 1349px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text47 {
+  top: 1461px;
+  left: 1213px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text49 {
+  top: 1307px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text51 {
+  top: 1718px;
+  left: 237px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text53 {
+  top: 1718px;
+  left: 1213px;
+  color: rgba(128, 128, 128, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text55 {
+  top: 1569px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-text57 {
+  top: 1968px;
+  left: 237px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.doctorregpage-header {
+  width: 100%;
+  height: var(--dl-size-size-medium);
+  display: flex;
+  max-width: 100%;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: #166a8a;
+}
+.doctorregpage-login {
+  height: var(--dl-size-size-small);
+  font-size: 25px;
+  font-style: normal;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  font-family: Montserrat;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  border-width: 0px;
+  margin-right: 0px;
+  border-radius: 25px;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+@media(max-width: 1200px) {
+  .doctorregpage-doctorregpage {
+    height: 3637px;
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .doctorregpage-form {
+    left: 0px;
+    width: 1200px;
+    bottom: 0px;
+    height: 3183px;
+  }
+  .doctorregpage-input {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input01 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input02 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input03 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input04 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input05 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input06 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input07 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input08 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input09 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input10 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input11 {
+    top: -164px;
+    left: 878px;
+  }
+  .doctorregpage-input12 {
+    top: -72px;
+    right: 131px;
+  }
+  .doctorregpage-input13 {
+    top: -127px;
+    left: 1369px;
+  }
+  .doctorregpage-input14 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input15 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input16 {
+    top: 132px;
+    left: 169px;
+  }
+  .doctorregpage-input17 {
+    left: 597px;
+    bottom: 372px;
+  }
+  .doctorregpage-input18 {
+    top: 203px;
+    left: 452px;
+    height: 75px;
+  }
+  .doctorregpage-input19 {
+    top: 1653px;
+    left: 32px;
+  }
+  .doctorregpage-input20 {
+    top: -94px;
+    left: 369px;
+  }
+  .doctorregpage-input21 {
+    top: -153px;
+    left: 358px;
+  }
+  .doctorregpage-input22 {
+    top: -229px;
+    left: 279px;
+  }
+  .doctorregpage-input23 {
+    top: 297px;
+    left: 213px;
+  }
+  .doctorregpage-navlink {
+    left: 345px;
+    bottom: 130px;
+    position: absolute;
+  }
+  .doctorregpage-text {
+    top: 145px;
+    left: 416px;
+  }
+  .doctorregpage-text57 {
+    top: 3001px;
+    left: 190px;
+  }
+}
